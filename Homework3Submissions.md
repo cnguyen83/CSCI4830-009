@@ -17,3 +17,31 @@
 **Option ?** I already had a repo with all files except CONTRIBUTING.md. Added it to the repo.
 
 **Link** https://github.com/bharadwajth/study-materials
+
+**Azzam Alsudais**
+
+**Option 1**: I added the files to my existing [project](https://github.com/azzamsu/HeyNet).
+
+**William Cooper**
+
+**Option 2**: I created a repository specifically for this project since I do not have rights to the project repository.
+
+**Link**: https://github.com/ryancooper7/WillamCooperOpenSource
+
+**Dylan McKinney**
+
+**Option 1**: I added the files to my existing [project](https://github.com/dmckinney5/SlackOff).
+
+**Holden Sheftel**
+
+**Option 2**: I created a new repository for this assignment.
+
+**Link**: https://github.com/holdenout/OSS-practice
+
+**Ryan Riley**
+
+**Option 2**: I created a [repository](https://github.com/RyanBRiley/dash-vee) specifically for this project because I do not have rights to Sci-kit's repo. I may actually change this to my final project if I can not find a suitable issue for sci-kit to work on. 
+
+**Ao Liu**
+
+**Option 1**: I added the files to my existing [project](https://github.com/holoTail/web-crawler-with-asyncio-coroutines).
