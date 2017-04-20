@@ -45,3 +45,37 @@
 **Ao Liu**
 
 **Option 1**: I added the files to my existing [project](https://github.com/holoTail/web-crawler-with-asyncio-coroutines).
+
+**Eric Fossas**
+
+**Option 1**: I arranged my open source software "Bengine" to match the format indicated. [project](https://github.com/efossas/Bengine).
+
+**Tyler Lugger**
+
+**Option 2** I created a new repository for this assignment.
+
+**Link** https://github.com/tlugger/OpenSource-Jupyter                      
+          
+**Keyu Chen**                 
+               
+**Option 1**: I added the files to my existing [project](https://github.com/lgzh2003/React/tree/master/projectHere)         
+
+**Lili Ji**
+
+**Option 2** I created a new repository for this assignment.
+
+**Link** https://github.com/lilyJi/UCDWebsite
+
+**Brian Alfano**
+
+**Option 2** https://github.com/No-Doy/HW3_Licensing
+
+**Montek S. Thind**
+
+**Option 2** I made a new repository Open Source and included files for assignment 3. https://github.com/montythind/OpenSource
+
+**Kyle Knight**
+
+**Option 2** I created a new repository for this assignment.
+
+**Link** https://github.com/knightkd/Licensing_and_CI_Practice
