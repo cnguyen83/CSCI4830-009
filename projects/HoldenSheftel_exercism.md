@@ -2,6 +2,7 @@
 # Student Name: Holden Sheftel
 # Project Name: exercism
 # Project URL: [https://github.com/exercism]
+# Pull Request URL: [https://github.com/exercism/x-common/pull/770]
 
 ## Planned contribution (1-3 sentences):
 Haven't decided exactly which parts yet, but there are opportunities in multiple repos within the project, often for documentation.
